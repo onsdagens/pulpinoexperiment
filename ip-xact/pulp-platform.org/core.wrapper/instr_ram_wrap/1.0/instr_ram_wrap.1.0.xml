@@ -112,10 +112,10 @@
 	</ipxact:busInterfaces>
 	<ipxact:memoryMaps>
 		<ipxact:memoryMap>
-			<ipxact:name>ram</ipxact:name>
+			<ipxact:name>instructionmemory</ipxact:name>
 			<ipxact:isPresent>0</ipxact:isPresent>
 			<ipxact:addressBlock>
-				<ipxact:name>ram_memory</ipxact:name>
+				<ipxact:name>instructionmemory</ipxact:name>
 				<ipxact:baseAddress>'h0</ipxact:baseAddress>
 				<ipxact:range>uuid_54b76578_5d7f_4d87_987b_ad0abc5711d9</ipxact:range>
 				<ipxact:width>uuid_f39caf05_f4ab_4065_bf18_8cc76cc0c718</ipxact:width>

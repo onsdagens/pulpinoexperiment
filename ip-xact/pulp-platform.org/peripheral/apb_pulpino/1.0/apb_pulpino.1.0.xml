@@ -140,7 +140,7 @@
 	</ipxact:busInterfaces>
 	<ipxact:memoryMaps>
 		<ipxact:memoryMap>
-			<ipxact:name>SOC_CONTROL</ipxact:name>
+			<ipxact:name>soccontrol</ipxact:name>
 			<ipxact:addressBlock>
 				<ipxact:name>soc_control_registers</ipxact:name>
 				<ipxact:baseAddress>'h0</ipxact:baseAddress>

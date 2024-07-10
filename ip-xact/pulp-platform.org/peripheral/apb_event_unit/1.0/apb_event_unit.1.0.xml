@@ -170,7 +170,7 @@
 	</ipxact:busInterfaces>
 	<ipxact:memoryMaps>
 		<ipxact:memoryMap>
-			<ipxact:name>EVENT_UNIT</ipxact:name>
+			<ipxact:name>eventinteruptunit</ipxact:name>
 			<ipxact:addressBlock>
 				<ipxact:name>event_unit_registers</ipxact:name>
 				<ipxact:baseAddress>'h0</ipxact:baseAddress>

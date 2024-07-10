@@ -496,7 +496,7 @@
 	</ipxact:busInterfaces>
 	<ipxact:memoryMaps>
 		<ipxact:memoryMap>
-			<ipxact:name>SPI</ipxact:name>
+			<ipxact:name>spimaster</ipxact:name>
 			<ipxact:addressBlock>
 				<ipxact:name>spi_registers</ipxact:name>
 				<ipxact:baseAddress>'h0</ipxact:baseAddress>
